@@ -2,7 +2,7 @@
 ![alt text](https://github.com/HarpSkye/MapAnimation-Exercise/blob/main/MapAnimation.PNG)
 
 ## Description:
-Moving bus stop landmark from MIT to Havard
+Moving bus stop landmark from MIT to Havard by clicking the button on the top left corner. 
 <br><br>
 Built with:
 - Javascript
