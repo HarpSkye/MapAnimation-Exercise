@@ -14,3 +14,16 @@ body {
   left: 0;
   padding: 10px;
 }
+
+.map-overlay-button {
+  background-color: #5453A6;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 2em;
+  margin: 4px 2px;
+  cursor: pointer;
+}
